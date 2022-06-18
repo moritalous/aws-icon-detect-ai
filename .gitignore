@@ -3,3 +3,9 @@
 .aws/credentials
 sam-app/hello_world/best.pt
 data.yaml
+asset
+runs
+train_yolo5
+val_yolo5
+yolov5s.pt
+asset.zip
