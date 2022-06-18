@@ -1,0 +1,5 @@
+.venv
+.aws/config
+.aws/credentials
+sam-app/hello_world/best.pt
+data.yaml
